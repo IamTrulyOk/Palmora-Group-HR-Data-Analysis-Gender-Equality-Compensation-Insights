@@ -1,31 +1,33 @@
-# Palmora-Group-HR-Data-Analysis-Gender-Equality-Compensation-Insights
-This repository contains an in-depth HR analytics project conducted for the Palmora Group, a leading manufacturing company in Nigeria.
+Palmora Group HR Data Analysis Gender Equality Compensation Insights
+
+This repository contains an in-depth HR analytics project conducted for the Palmora Group.
+
+
+Key findings from the HR data analysis:
+
+Overall Gender Distribution: The organization has a relatively balanced gender distribution, with 465 Male, 441 Female, and 40 Binary employees.
+
+Gender Distribution by Region and Department: The distribution of genders varies across different regions and departments, as detailed in the analysis.
+
+Performance Rating by Gender: The distribution of performance ratings also shows variations among genders, with different counts in each performance category.
+
+Salary Structure and Potential Gender Pay Gap: The analysis of average salaries indicates potential pay gaps, with variations in average salaries across genders, departments, and regions. Lagos generally shows higher average salaries.
+
+Minimum Salary Compliance: The company does not meet the hypothetical minimum salary requirement of $90,000 across all departments. The minimum salary in the dataset is $$90,000 across all departments. The minimum salary in the dataset is $28,130.00.
+
+Salary Distribution by $10,000 Bands: The majority of salaries fall between $$10,000 Bands: The majority of salaries fall between $20,000 and $119,999, with the highest concentrations in the $$119,999, with the highest concentrations in the $70,000-$79,999 and $$79,999 and $100,000-$109,999 bands.
 
 
 
-Overall Gender Distribution: The dataset contains 465 Male, 441 Female, and 40 Binary employees.
+Insights and Potential Areas for Management Focus:
 
-Gender Distribution by Region and Department: The distribution of genders varies across the three regions (Abuja, Kaduna, and Lagos) and across different departments.
+Investigate Identified Pay Gaps: Further investigate the factors contributing to the observed salary differences across genders, departments, and regions to ensure pay equity.
 
-Performance Rating by Gender: There are variations in performance rating distributions among genders across categories like 'Average', 'Good', 'Not Rated', 'Poor', 'Very Good', and 'Very Poor'.
+Review Performance Rating Processes: Evaluate the performance rating system for fairness and consistency across all employees.
 
-Average Salary by Gender: The average salaries are $90,250.00 for Binary, $79,762.00 for Female, and $82,075.00 for Male employees, indicating a potential pay gap.
+Analyze Salary Structures: Conduct a deeper analysis of salary structures to ensure they are competitive and equitable across the organization.
 
-Average Salary by Department and Gender: Significant differences in average salaries exist across genders within various departments.
-
-Average Salary by Region and Gender: Average salaries for each gender also vary by region, with Lagos generally showing higher averages.
-
-Minimum Salary Compliance (Manufacturing): Compliance with a hypothetical $90,000 minimum salary for Manufacturing could not be assessed as no employees were found in this department in the dataset.
-
-Salary Distribution by $10,000 Bands: Salaries are primarily concentrated between $20,000 and $119,999, with the highest frequencies in the $70,000-$79,999 and $100,000-$109,999 bands.
-
-
-
-Insights/Next Steps
-
-Investigate the identified pay gaps by conducting a deeper analysis of the factors contributing to salary differences within specific departments and regions.
-
-Review performance rating processes to ensure fairness and consistency across all genders and departments and analyze salary structures for competitiveness and equity.
+Address Minimum Salary: The company does not meet the hypothetical minimum salary requirement of $90,000 across all departments. Review and address the salaries below this threshold if this regulation is applicable.
 
 
 
