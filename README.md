@@ -13,9 +13,9 @@ Performance Rating by Gender: The distribution of performance ratings also shows
 
 Salary Structure and Potential Gender Pay Gap: The analysis of average salaries indicates potential pay gaps, with variations in average salaries across genders, departments, and regions. Lagos generally shows higher average salaries.
 
-Minimum Salary Compliance: The company does not meet the hypothetical minimum salary requirement of $90,000 across all departments. The minimum salary in the dataset is $$90,000 across all departments. The minimum salary in the dataset is $28,130.00.
+Minimum Salary Compliance: The company does not meet the hypothetical minimum salary requirement of $90,000 across all departments. The minimum salary in the dataset is $90,000 across all departments. The minimum salary in the dataset is $28,130.00.
 
-Salary Distribution by $10,000 Bands: The majority of salaries fall between $$10,000 Bands: The majority of salaries fall between $20,000 and $119,999, with the highest concentrations in the $$119,999, with the highest concentrations in the $70,000-$79,999 and $$79,999 and $100,000-$109,999 bands.
+Salary Distribution by $10,000 Bands: The majority of salaries fall between $10,000 Bands: The majority of salaries fall between $20,000 and $119,999, with the highest concentrations in the $119,999, with the highest concentrations in the $70,000-$79,999 and $79,999 and $100,000-$109,999 bands.
 
 
 
